@@ -1,0 +1,20 @@
+﻿  LoadMD5Model.cpp
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\2-skinmeshcpu\loadmd5model.cpp(13): error C2871: “xMD5Loader”: 具有该名称的命名空间不存在
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\2-skinmeshcpu\loadmd5model.cpp(89): error C2065: “MD5_Model”: 未声明的标识符
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\2-skinmeshcpu\loadmd5model.cpp(89): error C2146: 语法错误: 缺少“;”(在标识符“ourModel”的前面)
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\2-skinmeshcpu\loadmd5model.cpp(89): error C2065: “ourModel”: 未声明的标识符
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\2-skinmeshcpu\loadmd5model.cpp(91): error C2065: “ourModel”: 未声明的标识符
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\2-skinmeshcpu\loadmd5model.cpp(94): error C2065: “ourModel”: 未声明的标识符
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\2-skinmeshcpu\loadmd5model.cpp(108): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\2-skinmeshcpu\loadmd5model.cpp(131): error C2065: “ourModel”: 未声明的标识符
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\2-skinmeshcpu\loadmd5model.cpp(132): error C2065: “ourModel”: 未声明的标识符
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\2-skinmeshcpu\loadmd5model.cpp(193): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\2-skinmeshcpu\loadmd5model.cpp(194): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\2-skinmeshcpu\loadmd5model.cpp(198): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\2-skinmeshcpu\loadmd5model.cpp(199): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\2-skinmeshcpu\loadmd5model.cpp(200): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\2-skinmeshcpu\loadmd5model.cpp(201): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\2-skinmeshcpu\loadmd5model.cpp(208): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  model_md5anim.cpp
+  model_md5mesh.cpp
+  正在生成代码...
