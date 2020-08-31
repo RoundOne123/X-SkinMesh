@@ -1,13 +1,8 @@
 ﻿  LoadMD5Model.cpp
-c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\2-skinmeshcpu\loadmd5model.cpp(13): error C2871: “xMD5Loader”: 具有该名称的命名空间不存在
-c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\2-skinmeshcpu\loadmd5model.cpp(89): error C2065: “MD5_Model”: 未声明的标识符
-c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\2-skinmeshcpu\loadmd5model.cpp(89): error C2146: 语法错误: 缺少“;”(在标识符“ourModel”的前面)
-c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\2-skinmeshcpu\loadmd5model.cpp(89): error C2065: “ourModel”: 未声明的标识符
-c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\2-skinmeshcpu\loadmd5model.cpp(91): error C2065: “ourModel”: 未声明的标识符
-c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\2-skinmeshcpu\loadmd5model.cpp(94): error C2065: “ourModel”: 未声明的标识符
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\xtools.h(134): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\xtools.h(137): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\xtools.h(172): warning C4018: “<”: 有符号/无符号不匹配
 c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\2-skinmeshcpu\loadmd5model.cpp(108): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\2-skinmeshcpu\loadmd5model.cpp(131): error C2065: “ourModel”: 未声明的标识符
-c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\2-skinmeshcpu\loadmd5model.cpp(132): error C2065: “ourModel”: 未声明的标识符
 c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\2-skinmeshcpu\loadmd5model.cpp(193): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
 c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\2-skinmeshcpu\loadmd5model.cpp(194): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
 c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\2-skinmeshcpu\loadmd5model.cpp(198): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
@@ -15,6 +10,38 @@ c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\2
 c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\2-skinmeshcpu\loadmd5model.cpp(200): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
 c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\2-skinmeshcpu\loadmd5model.cpp(201): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
 c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\2-skinmeshcpu\loadmd5model.cpp(208): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  LoadMD5Model_GPU.cpp
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\xtools.h(134): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\xtools.h(137): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\xtools.h(172): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\2-skinmeshcpu\loadmd5model_gpu.cpp(108): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\2-skinmeshcpu\loadmd5model_gpu.cpp(193): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\2-skinmeshcpu\loadmd5model_gpu.cpp(194): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\2-skinmeshcpu\loadmd5model_gpu.cpp(198): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\2-skinmeshcpu\loadmd5model_gpu.cpp(199): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\2-skinmeshcpu\loadmd5model_gpu.cpp(200): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\2-skinmeshcpu\loadmd5model_gpu.cpp(201): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\2-skinmeshcpu\loadmd5model_gpu.cpp(208): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
   model_md5anim.cpp
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\xtools.h(134): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\xtools.h(137): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\xtools.h(172): warning C4018: “<”: 有符号/无符号不匹配
+  model_md5anim_gpu.cpp
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\xtools.h(134): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\xtools.h(137): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\xtools.h(172): warning C4018: “<”: 有符号/无符号不匹配
   model_md5mesh.cpp
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\xtools.h(134): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\xtools.h(137): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\xtools.h(172): warning C4018: “<”: 有符号/无符号不匹配
+  model_md5mesh_gpu.cpp
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\xtools.h(134): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\xtools.h(137): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\xtools.h(172): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\admin\desktop\opengl-skinmeshrender\vs-studio-opengl\vs-studio-opengl\model_md5mesh_gpu.cpp(42): warning C4244: “=”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
   正在生成代码...
+  VS-Studio-OpenGL.vcxproj -> C:\Users\admin\Desktop\opengl-skinmeshrender\VS-Studio-OpenGL\Debug\VS-Studio-OpenGL.exe
